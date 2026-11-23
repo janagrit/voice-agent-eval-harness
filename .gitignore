@@ -17,3 +17,8 @@ report/test_report.html
 
 # macOS
 .DS_Store
+
+# Node / Playwright
+node_modules/
+playwright-report/
+test-results/
